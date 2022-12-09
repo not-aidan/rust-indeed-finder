@@ -11,4 +11,4 @@ Commands:
 `python3 analyze.py` extract and filter scraped job postings.
 
 Scrape and export data into a file:
-`python3 scrape.py && python3 analyze.py >> output.txt'
+`python3 scrape.py && python3 analyze.py >> output.txt`
